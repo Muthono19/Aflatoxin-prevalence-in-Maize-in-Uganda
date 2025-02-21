@@ -19,6 +19,9 @@ We used a Generalized Linear Mixed Model (GLMM) with a Tweedie distribution to a
 ***Preliminary Findings:***
 
 <li>Treatment significantly reduces aflatoxin prevalence (*p* < 0.001), supporting our first hypothesis.</li>
+
+![Predicted Aflatoxin in Maize](PredictedMaizeAffla_UG.png)
+
 <li>There is significant seasonal variation in aflatoxin prevalence (p < 0.001), confirming that different growing conditions across seasons impact contamination levels.</li>
 <li>The interaction between Altitude and Treatment is not significant (p = 0.414), indicating that the effect of treatment is consistent across different altitudes—altitude does not influence how well the treatment works.</li>
 <li>Altitude alone is not a significant predictor (*p* = 0.127), suggesting that it may not strongly influence aflatoxin prevalence as initially expected.</li>
