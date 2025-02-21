@@ -6,6 +6,7 @@ library(lme4)
 library(glmmTMB)
 library(car)
 library(ggeffects)
+library(emmeans)
 
 # Load the Uganda database
 d.uganda <- read.csv("Uganda_MaizeAfla_Raw.csv")
