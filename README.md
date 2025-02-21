@@ -3,7 +3,8 @@
 
 We used a Generalized Linear Mixed Model (GLMM) with a Tweedie distribution to analyze the effects of various predictors on aflatoxin prevalence.
 
-***Model Specification:***
+<center>***Model Specification:***<center>
+
 *Predictors:* Altitude, Season, Treatment, and the interaction between Altitude and Treatment.
 *Random Effects:* Districts nested within Regions.
 
@@ -11,9 +12,9 @@ We used a Generalized Linear Mixed Model (GLMM) with a Tweedie distribution to a
 
 <li>Treated farms will have lower aflatoxin prevalence compared to untreated farms.</li>
 
-*Aflatoxin prevalence will vary significantly by season, region, and district.
-*Higher-altitude farms (likely wetter areas) may have higher aflatoxin prevalence due to increased fungal growth conditions.
-*The effectiveness of treatment might depend on altitude (i.e., we expected a potential interaction effect).
+<li>Aflatoxin prevalence will vary significantly by season, region, and district.</li>
+<li>Higher-altitude farms (likely wetter areas) may have higher aflatoxin prevalence due to increased fungal growth conditions.</li>
+<li>The effectiveness of treatment might depend on altitude (i.e., we expected a potential interaction effect).</li>
 
 ***Preliminary Findings:***
 Treatment significantly reduces aflatoxin prevalence (*p* < 0.001), supporting our first hypothesis.
