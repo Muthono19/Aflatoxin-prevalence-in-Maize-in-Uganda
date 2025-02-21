@@ -1,9 +1,9 @@
 ##
-**Repository for modeling aflatoxin prevalence in maize using data collected in Uganda for the years 2021 and 2022.**
+**<h1>Repository for modeling aflatoxin prevalence in maize using data collected in Uganda for the years 2021 and 2022.</h1>**
 
 We used a Generalized Linear Mixed Model (GLMM) with a Tweedie distribution to analyze the effects of various predictors on aflatoxin prevalence.
 
-<center>***Model Specification:***<center>
+***<center>Model Specification<center>***
 
 *Predictors:* Altitude, Season, Treatment, and the interaction between Altitude and Treatment.
 *Random Effects:* Districts nested within Regions.
