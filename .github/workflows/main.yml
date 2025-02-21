@@ -26,3 +26,9 @@ jobs:
       - name: Run R script
         run: Rscript GLMM_Uganda_MaizeAfla.R
 
+        - name: Upload PNG outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: Analysis-Outputs
+          path: "*.png"
+
